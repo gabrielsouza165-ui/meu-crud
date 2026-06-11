@@ -1,4 +1,4 @@
-# Agenda — Agenda — Exercício 9: Separação em Camadas
+# Agenda — Exercício 9: Separação em Camadas
 
 Projeto PHP refatorado com arquitetura em três camadas, inspirada no padrão MVC, desenvolvido como exercício de boas práticas de organização de código.
 
